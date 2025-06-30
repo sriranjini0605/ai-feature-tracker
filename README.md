@@ -3,7 +3,7 @@
 
 This project simulates the full product management lifecycle for an AI-powered feature called "AI Background Remover." It includes planning, execution, and performance tracking components.
 
-## What We Built
+## What I Built
 
 The project includes the following artifacts and deliverables:
 - A structured PRD with user stories and measurable goals
@@ -35,7 +35,7 @@ The project includes the following artifacts and deliverables:
 - PRD: [PRD.md](./PRD.md)
 - Partner Integration Tracker (Notion): [View Tracker](https://www.notion.so/AI-Partner-Integration-Tracker-2224a2d9ae07804ca81bc2d0c63ca71b)
 - Agile Board (Trello): [Sprint Board](https://trello.com/invite/b/6862060e218eb72a3f21d057/ATTI9d91bcebf74e8509ff26b8cca3d4c0e855B46866/ai-feature-lifecycle)
-- Frontend Demo: [AI Feature Tracker](https://ai-feature-tracker.vercel.app/)
+- Frontend Demo: [AI Background Remover](https://ai-feature-tracker.vercel.app/)
 
 ## Repository Structure
 
